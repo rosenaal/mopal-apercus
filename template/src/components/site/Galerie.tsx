@@ -8,7 +8,7 @@ export default function Galerie() {
   const photos = S.photos.slice(1, 7);
   if (photos.length < 3) return null;
   return (
-    <section id="realisations" className="section-y pt-0 sm:pt-0 lg:pt-0" aria-label="Photos de chantiers">
+    <section id="realisations" className="pb-20 sm:pb-28 lg:pb-32" aria-label="Photos de chantiers">
       <div className="container-wide flex items-end justify-between gap-6">
         <Reveal>
           <p className="eyebrow"><Crosshair className="h-3.5 w-3.5 text-chartreuse-strong" />Sur le terrain</p>

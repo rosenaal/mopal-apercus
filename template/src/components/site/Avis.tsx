@@ -11,7 +11,7 @@ export default function Avis() {
   if (avis.length < 2 || g.note === null) return null;
   const note = g.note.toLocaleString("fr-FR", { minimumFractionDigits: 1, maximumFractionDigits: 1 });
   return (
-    <section id="avis" className="section-y pt-0 sm:pt-0 lg:pt-0">
+    <section id="avis" className="section-y">
       <div className="container-wide">
         <Reveal className="max-w-3xl">
           <p className="eyebrow"><Crosshair className="h-3.5 w-3.5 text-chartreuse-strong" />Avis clients</p>
