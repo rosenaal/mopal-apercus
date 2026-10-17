@@ -1,0 +1,57 @@
+{
+  "slug": "hardoin-couverture",
+  "nom": "Hardoin Couverture",
+  "logo": { "a": "Hardoin", "b": "Couverture", "sous": "Couvreur zingueur", "icon": "house" },
+  "signature": "HARDOIN",
+  "metier": "couvreur",
+  "zone": { "eyebrow": "Le Grand-Lucé · Sarthe (72)", "cible": "en Sarthe", "texte": "Sarthe (72) et communes voisines", "code": "72" },
+  "hero": {
+    "titre_avant": "Couverture et", "titre_souligne": "zinguerie", "titre_apres": "en Sarthe",
+    "texte": "Réfection de toiture, pose de fenêtres de toit, charpente et isolation. Hardoin Couverture intervient depuis Le Grand-Lucé.",
+    "badges": [ { "icon": "receipt", "titre": "Devis gratuit", "sous": "Après visite sur place" }, { "icon": "star", "titre": "22 avis Google", "sous": "Note 5,0 sur 5" } ],
+    "photo": { "titre": "Toiture refaite", "sous": "Chantier photographié par l'entreprise", "pastille": "72" }
+  },
+  "engagements": [
+    { "icon": "receipt", "titre": "Devis gratuit", "label": "Établi après visite." },
+    { "icon": "broom", "titre": "Chantier propre", "label": "Nettoyage en fin d'intervention." },
+    { "icon": "users", "titre": "Équipe sur place", "label": "L'artisan et son équipe, du début à la fin." },
+    { "icon": "map-pin", "titre": "Sarthe", "label": "Depuis Le Grand-Lucé." }
+  ],
+  "prestations": {
+    "h2": "La toiture,", "h2_soft": "du faîtage à la gouttière.",
+    "intro": "Chaque chantier commence par une visite pour évaluer l'état de la couverture et établir un devis détaillé.",
+    "principale": { "num": "01", "titre": "Réfection complète de toiture", "desc": "Dépose, charpente, isolation et couverture neuve.", "tags": ["Tuiles", "Ardoises", "Isolation"], "icon": "house" },
+    "secondaires": [
+      { "num": "02", "titre": "Fenêtres de toit", "desc": "Pose et remplacement de Velux.", "tags": ["Velux", "Remplacement"], "icon": "sun" },
+      { "num": "03", "titre": "Zinguerie", "desc": "Gouttières, noues, abergements.", "tags": ["Zinc", "Gouttières"], "icon": "drop" },
+      { "num": "04", "titre": "Charpente", "desc": "Reprise et traitement.", "tags": ["Bois", "Traitement"], "icon": "hammer" }
+    ],
+    "autres_titre": "Autres travaux",
+    "autres": [ { "titre": "Démoussage", "desc": "Nettoyage et traitement.", "icon": "broom" }, { "titre": "Recherche de fuite", "desc": "Diagnostic et réparation.", "icon": "warning" } ]
+  },
+  "apropos": {
+    "h2": "Hardoin Couverture,", "h2_soft": "Le Grand-Lucé.",
+    "texte": "Entreprise de couverture installée au Grand-Lucé, en Sarthe.",
+    "points": [ { "icon": "house", "titre": "La toiture d'abord", "texte": "Couverture, zinguerie, charpente." }, { "icon": "sun", "titre": "La lumière", "texte": "Fenêtres de toit." }, { "icon": "shield", "titre": "Le suivi", "texte": "Un interlocuteur, du devis à la réception." } ],
+    "zones": [ { "code": "72", "nom": "Sarthe", "detail": "Depuis Le Grand-Lucé" } ],
+    "zones_note": "Et communes voisines"
+  },
+  "methode": { "h2": "Du devis", "h2_soft": "à la réception.", "intro": "Rien n'est engagé avant votre accord sur le devis.",
+    "etapes": [ { "titre": "Visite", "desc": "Évaluation sur place." }, { "titre": "Devis", "desc": "Détaillé et gratuit." }, { "titre": "Travaux", "desc": "Par l'équipe de l'entreprise." }, { "titre": "Réception", "desc": "Chantier nettoyé et vérifié." } ], "cta": "Devis gratuit" },
+  "faq": [ { "q": "Le devis est-il gratuit ?", "r": "Oui." }, { "q": "Où intervenez-vous ?", "r": "En Sarthe." } ],
+  "contact": { "h2": "Une toiture à refaire ?", "h2_soft": "Appelez.", "texte": "Devis gratuit après visite.", "form_intro": "Décrivez le chantier." },
+  "footer": { "desc": "Couverture, zinguerie, charpente et fenêtres de toit en Sarthe." },
+  "seo": { "title": "Couvreur en Sarthe : Hardoin Couverture", "description": "Couverture, zinguerie, charpente.", "og_title": "Hardoin Couverture", "og_description": "Couvreur au Grand-Lucé.", "schema_type": "RoofingContractor", "jsonld_description": "Couvreur zingueur au Grand-Lucé (72)." },
+  "theme": "tuile",
+  "tel": { "display": "02 43 18 92 88", "tel": "+33243189288" },
+  "email": null,
+  "site_actuel": null,
+  "adresse": { "rue": "254 rue de la Paix", "cp": "72150", "ville": "Le Grand-Lucé", "complete": "254 rue de la Paix, 72150 Le Grand-Lucé", "region": "Pays de la Loire" },
+  "horaires": [ { "jours": "Lundi – jeudi", "heures": "8h00 – 17h00" }, { "jours": "Vendredi", "heures": "8h00 – 12h00" } ],
+  "maps_url": "https://maps.google.com/?cid=5002621141305316992",
+  "geo": { "lat": 47.860732, "lng": 0.477036 },
+  "google": { "note": 5.0, "nb_avis": 22, "avis": [ { "auteur": "Audrey P.", "date": "Mai 2026", "texte": "Anthony est intervenu pour le remplacement de nos velux. Travaille rapide et bien fait.", "note": 5 }, { "auteur": "Cyril G.", "date": "Février 2025", "texte": "Travail soigné et très professionnel.", "note": 5 } ] },
+  "photos": [],
+  "registre": null,
+  "demo": { "hebergeur": "GitHub, Inc.", "hebergeur_adresse": "88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis", "hebergeur_url": "https://pages.github.com", "date": "2026-10-17" }
+}

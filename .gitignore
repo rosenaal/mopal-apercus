@@ -1,0 +1,7 @@
+.venv/
+template/node_modules
+template/dist
+template/dist-ssr
+work/
+cache/
+*.log
